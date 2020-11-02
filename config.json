@@ -1,9 +1,0 @@
-{
-  "token": "<Discord_Token>",
-  "prefix": "@",
-
-  "consumer_key": "<Twitter_Consumer_Key>",
-  "consumer_secret": "<Twitter_Consumer_Secret>",
-  "access_token": "<Twitter_Access_Token>",
-  "access_token_secret": "<Twitter_Access_Secret>"
-}
